@@ -1,4 +1,4 @@
-;; insert time and date stamps at point
+;;; insert-time.el --- insert time and date stamps at point
 
 ;; Copyright (C) 2001-2007 Ryan McGeary
 ;; Author: Ryan McGeary
